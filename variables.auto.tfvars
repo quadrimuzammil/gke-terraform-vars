@@ -1,0 +1,10 @@
+gcp_credentials = "canvas-rampart-364906-2bdaa2ba5c87.json" 
+gcp_project_id = "My First Project"
+gcp_region = "us-west1"
+gke_zones  = ["us-west1-a"]
+gke_regional = false
+gke_network = "default"
+gke_subnetwork = "default"
+gke_sesrvice_account_name = "ubuntu-terraform@canvas-rampart-364906.iam.gserviceaccount.com"
+gke_cluster_name = "gcp_kubernetes"
+gke_default_nodepool_name = "gke_node_pool"
